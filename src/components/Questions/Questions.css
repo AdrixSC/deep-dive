@@ -1,0 +1,32 @@
+.Questions {
+    width: 50%;
+    padding: 10px;
+}
+
+.Question-number {
+    width: 5%;
+}
+
+.Question-name {
+    width: 75%;
+}
+
+.Question p {
+    margin: 0;
+}
+
+.Question hr {
+    border: 0;
+    height: 5px;
+    box-shadow: inset 0 12px 12px -12px rgb(22, 110, 241)
+}
+
+.Question-button {
+    width: 20%;
+    color: rgba(13, 117, 207, 0.952);
+    cursor: pointer;
+}
+
+.Question-button :hover {
+    color: rgba(4, 68, 124, 0.952);
+}

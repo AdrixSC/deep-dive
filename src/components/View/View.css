@@ -1,0 +1,17 @@
+.Container {}
+
+.Container-graphic {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.Container-questions {
+    background-color: white;
+    display: flex;
+    flex-direction: unset;
+    border-radius: 10px;
+    padding: 15px;
+}

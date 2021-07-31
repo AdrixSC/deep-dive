@@ -8,7 +8,7 @@
 }
 
 .Question-name {
-    width: 75%;
+    width: 80%;
 }
 
 .Question p {
@@ -18,15 +18,56 @@
 .Question hr {
     border: 0;
     height: 5px;
-    box-shadow: inset 0 12px 12px -12px rgb(22, 110, 241)
 }
 
 .Question-button {
-    width: 20%;
-    color: rgba(13, 117, 207, 0.952);
+    width: 15%;
+    color: #089dbf;
     cursor: pointer;
+    font-size: 16px;
+    text-align: center;
 }
 
 .Question-button :hover {
     color: rgba(4, 68, 124, 0.952);
+}
+
+.Color-line0 {
+    box-shadow: inset 0 12px 12px -12px rgb(22, 110, 241);
+}
+
+.Color-line1 {
+    box-shadow: inset 0 12px 12px -12px rgb(226, 14, 145);
+}
+
+.Color-line2 {
+    box-shadow: inset 0 12px 12px -12px rgb(228, 228, 5);
+}
+
+.Color-line3 {
+    box-shadow: inset 0 12px 12px -12px rgb(121, 3, 145);
+}
+
+.Color-line4 {
+    box-shadow: inset 0 12px 12px -12px rgb(245, 150, 7);
+}
+
+.Color-line5 {
+    box-shadow: inset 0 12px 12px -12px rgb(14, 226, 222);
+}
+
+.Color-line6 {
+    box-shadow: inset 0 12px 12px -12px rgb(224, 7, 3);
+}
+
+.Color-line7 {
+    box-shadow: inset 0 12px 12px -12px rgb(173, 226, 14);
+}
+
+.Color-line8 {
+    box-shadow: inset 0 12px 12px -12px rgb(241, 22, 241);
+}
+
+.Color-line9 {
+    box-shadow: inset 0 12px 12px -12px rgb(113, 14, 226);
 }

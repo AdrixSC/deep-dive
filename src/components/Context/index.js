@@ -4,8 +4,6 @@ import React, { useState, useEffect } from 'react';
 import './Context.css'
 
 export default function Context({ dato1, dato2 }) {
-    console.log(dato1, dato2)
-
     if (!dato1) return null;
 
     return (

@@ -1,11 +1,11 @@
 import React from 'react';
 
+//Styles
+import './App.css';
+
 //Components
 import Header from './components/Header';
 import View from './components/View';
-
-//Styles
-import './App.css';
 
 
 function App() {

@@ -6,6 +6,14 @@
     text-align: center;
     margin-bottom: 20px;
     border-radius: 10px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.Container-graphic canvas {
+    height: 400px !important;
+    width: 800px !important;
 }
 
 .Container-questions {
